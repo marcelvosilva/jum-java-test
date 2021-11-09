@@ -1,5 +1,8 @@
 # Getting Started
 
+First thing to do is to go in the application.properties file and change the spring.datasource.url to point to where the samples.db file is. In my computer it was on
+C:\\Users\\marce\\Desktop\\exec_java\\exec_java\\sample.db
+
 How to compile: Make sure you clone the project locally, and after that just run "mvn clean install" on the root directory
 of the project (where the pom.xml file is).
 
